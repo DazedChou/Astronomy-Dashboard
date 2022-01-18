@@ -6,11 +6,13 @@ We created this website as a means to obtain all kinds of info on astronomy into
 ## Getting Started
 To automatically have the website capture the user's location on load, the user must allow the browser to allow the permissions.
 
+## User Story
+
 
 ## GIF Demo of website
 ![](./FullWebsite.gif)
 
-
+## Code Highlights
 
 
 ## Built With
